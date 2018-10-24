@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Readify", "ReadifyBank\Readify.csproj", "{912980B6-6884-4A5C-AFEC-0BC3B0DB4051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadifyBankUnitTests", "ReadifyBankUnitTests\ReadifyBankUnitTests.csproj", "{A84E5D05-DEEF-4071-BBD9-C9F2A66B060F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{912980B6-6884-4A5C-AFEC-0BC3B0DB4051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912980B6-6884-4A5C-AFEC-0BC3B0DB4051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912980B6-6884-4A5C-AFEC-0BC3B0DB4051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912980B6-6884-4A5C-AFEC-0BC3B0DB4051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84E5D05-DEEF-4071-BBD9-C9F2A66B060F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84E5D05-DEEF-4071-BBD9-C9F2A66B060F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84E5D05-DEEF-4071-BBD9-C9F2A66B060F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84E5D05-DEEF-4071-BBD9-C9F2A66B060F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F87A8AC-82A9-402A-B5A2-DE812E59B39E}
+	EndGlobalSection
+EndGlobal
